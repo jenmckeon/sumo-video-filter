@@ -1,7 +1,7 @@
 # sumo-video-filter
 The Objective: Support the expansion of the Sumo product line with a best in class how-to video series - starring the new Sumo Stylers lineup.
 
-This module features 24 looks on ten Bb.Stylists + Bb.Employees - each with a how-to video. You can filter each of the video by product, hair length, hair texture, and desired effect.
+This module features 18 looks on ten Bb.Stylists + Bb.Employees - each with a how-to video. You can filter each of the video by product, hair length, hair texture, and desired effect.
 
 The filter functionality was coded in jQuery. It features checkboxes which deliver an “or” like filter functionality to add on filter options and ‘categories’ which deliver “and” like filter functionality to remove options.
 
